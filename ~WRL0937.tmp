@@ -4,18 +4,18 @@
 {\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
-{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f40\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
-{\f41\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f43\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f44\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f45\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
-{\f46\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f47\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f48\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f50\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
-{\f51\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f53\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f54\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f55\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
-{\f56\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f57\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f58\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f60\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
-{\f61\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f63\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f64\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f65\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
-{\f66\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f67\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f68\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f380\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}
-{\f381\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}{\f383\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f384\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f387\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}
-{\f388\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}{\f410\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\f411\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\f413\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}
-{\f414\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\f417\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\f418\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\f420\fbidi \fswiss\fcharset238\fprq2 Tahoma CE;}
-{\f421\fbidi \fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f423\fbidi \fswiss\fcharset161\fprq2 Tahoma Greek;}{\f424\fbidi \fswiss\fcharset162\fprq2 Tahoma Tur;}{\f425\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}
-{\f426\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f427\fbidi \fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f428\fbidi \fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f429\fbidi \fswiss\fcharset222\fprq2 Tahoma (Thai);}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f39\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f40\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f42\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f46\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f49\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
+{\f50\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f52\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f53\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f54\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f55\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f56\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f57\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f59\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
+{\f60\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f62\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f63\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f64\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f65\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f66\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f67\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f379\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}
+{\f380\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}{\f382\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f383\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f386\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}
+{\f387\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}{\f409\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\f410\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\f412\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}
+{\f413\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\f416\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\f417\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\f419\fbidi \fswiss\fcharset238\fprq2 Tahoma CE;}
+{\f420\fbidi \fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f422\fbidi \fswiss\fcharset161\fprq2 Tahoma Greek;}{\f423\fbidi \fswiss\fcharset162\fprq2 Tahoma Tur;}{\f424\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}
+{\f425\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f426\fbidi \fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f427\fbidi \fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f428\fbidi \fswiss\fcharset222\fprq2 Tahoma (Thai);}
 {\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
 {\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
 {\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
@@ -40,7 +40,7 @@
 \red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp \f31506\fs22\lang3081\langfe1033\langfenp1033 }{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 \snext0 \sqformat \spriority0 \styrsid3670363 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
-\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31506\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 \snext11 \ssemihidden \sunhideused \sqformat Normal Table;}{
 \s15\ql \li720\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 
 \sbasedon0 \snext15 \sqformat \spriority34 \styrsid4212424 List Paragraph;}{\s16\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
@@ -115,22 +115,21 @@ No Spacing;}}{\*\listtable{\list\listtemplateid1632301300\listhybrid{\listlevel\
 \itap0\li0\ri0\sb0\sa0}{\pgp\ipgp19\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp22\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp40\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp43\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp47\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp48\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp49\itap0\li0
 \ri0\sb0\sa0}{\pgp\ipgp18\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp46\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp9\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp54\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0
 }{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp53\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid144189\rsid151552\rsid267041\rsid333139\rsid351452\rsid355865\rsid358642\rsid403960\rsid412651
-\rsid551444\rsid806891\rsid813061\rsid854433\rsid866129\rsid872762\rsid884295\rsid1003918\rsid1137962\rsid1183951\rsid1248677\rsid1250966\rsid1277289\rsid1386043\rsid1393349\rsid1400821\rsid1404186\rsid1408858\rsid1507935\rsid1522483\rsid1648619
-\rsid1659419\rsid1922024\rsid2058643\rsid2113424\rsid2246789\rsid2364217\rsid2426907\rsid2453063\rsid2507414\rsid2641689\rsid2694775\rsid2694925\rsid2704547\rsid2777441\rsid2890406\rsid2893345\rsid3028496\rsid3163978\rsid3238820\rsid3289479\rsid3350824
-\rsid3362922\rsid3434577\rsid3437747\rsid3490637\rsid3498327\rsid3505114\rsid3542366\rsid3565502\rsid3670363\rsid3698951\rsid3738259\rsid3746718\rsid3757151\rsid3828861\rsid3963258\rsid4068522\rsid4212424\rsid4224612\rsid4326931\rsid4416383\rsid4537971
-\rsid4593408\rsid4608656\rsid4666015\rsid4667055\rsid4735889\rsid4854511\rsid4986634\rsid5056924\rsid5071486\rsid5183586\rsid5202182\rsid5327852\rsid5395699\rsid5509063\rsid5512738\rsid5704312\rsid5732642\rsid5794769\rsid5906679\rsid5922224\rsid5970405
-\rsid5976526\rsid5993216\rsid6237367\rsid6372407\rsid6582849\rsid6706505\rsid6835967\rsid6846693\rsid6896303\rsid6896353\rsid6908592\rsid6955816\rsid7026139\rsid7079009\rsid7091952\rsid7094116\rsid7144335\rsid7166615\rsid7228024\rsid7278929\rsid7289550
-\rsid7297581\rsid7360374\rsid7368059\rsid7415094\rsid7626178\rsid7688309\rsid7739190\rsid7800710\rsid7824237\rsid7881758\rsid7932833\rsid7943956\rsid7962397\rsid8078179\rsid8131799\rsid8131959\rsid8137006\rsid8221636\rsid8418358\rsid8466804\rsid8523513
-\rsid8528475\rsid8528520\rsid8615007\rsid8730679\rsid8736968\rsid8787630\rsid8812254\rsid8927944\rsid8996402\rsid9060209\rsid9115393\rsid9269311\rsid9328408\rsid9387798\rsid9404409\rsid9595748\rsid9642879\rsid9720628\rsid9726938\rsid9845811\rsid9846059
-\rsid9900021\rsid9901728\rsid9911407\rsid9926135\rsid9986921\rsid10100284\rsid10110727\rsid10252101\rsid10302014\rsid10320523\rsid10381045\rsid10487574\rsid10618030\rsid10628932\rsid10636185\rsid10646760\rsid10684532\rsid10714186\rsid10774087\rsid10881141
-\rsid10963961\rsid11144764\rsid11173657\rsid11217309\rsid11233499\rsid11352256\rsid11403946\rsid11419824\rsid11602223\rsid11615846\rsid11622843\rsid11693321\rsid11805620\rsid11810673\rsid11870641\rsid11954998\rsid12002456\rsid12060681\rsid12128641
-\rsid12154420\rsid12192247\rsid12271798\rsid12278883\rsid12528814\rsid12587323\rsid12598709\rsid12716996\rsid12720510\rsid12745510\rsid12783350\rsid12848222\rsid12848546\rsid12855136\rsid12859000\rsid12868406\rsid12875080\rsid12924041\rsid12927545
-\rsid12941546\rsid13057277\rsid13107840\rsid13123694\rsid13240898\rsid13265096\rsid13529508\rsid13529565\rsid13717252\rsid13768818\rsid13850384\rsid14046705\rsid14105791\rsid14109807\rsid14235473\rsid14305334\rsid14374862\rsid14443080\rsid14629554
-\rsid14640738\rsid14680116\rsid14759858\rsid14771753\rsid14888945\rsid14962807\rsid14966916\rsid14970086\rsid15034902\rsid15145326\rsid15146824\rsid15208723\rsid15337756\rsid15363695\rsid15414329\rsid15420354\rsid15735731\rsid15860212\rsid15936227
-\rsid16012193\rsid16064950\rsid16067245\rsid16129270\rsid16138641\rsid16141553\rsid16143494\rsid16152189\rsid16202887\rsid16209309\rsid16259188\rsid16278569\rsid16284661\rsid16403283\rsid16404319\rsid16411410\rsid16533031\rsid16611867\rsid16647552
+\rsid551444\rsid806891\rsid813061\rsid854433\rsid866129\rsid872762\rsid1003918\rsid1137962\rsid1183951\rsid1248677\rsid1250966\rsid1277289\rsid1393349\rsid1400821\rsid1404186\rsid1408858\rsid1507935\rsid1522483\rsid1648619\rsid1659419\rsid1922024
+\rsid2113424\rsid2246789\rsid2364217\rsid2426907\rsid2453063\rsid2507414\rsid2694775\rsid2694925\rsid2704547\rsid2777441\rsid2890406\rsid2893345\rsid3028496\rsid3238820\rsid3289479\rsid3350824\rsid3362922\rsid3434577\rsid3437747\rsid3490637\rsid3498327
+\rsid3505114\rsid3542366\rsid3565502\rsid3670363\rsid3698951\rsid3738259\rsid3746718\rsid3757151\rsid3828861\rsid3963258\rsid4068522\rsid4212424\rsid4224612\rsid4326931\rsid4416383\rsid4537971\rsid4593408\rsid4608656\rsid4666015\rsid4667055\rsid4735889
+\rsid4854511\rsid4986634\rsid5056924\rsid5071486\rsid5183586\rsid5202182\rsid5327852\rsid5395699\rsid5509063\rsid5512738\rsid5704312\rsid5732642\rsid5794769\rsid5906679\rsid5922224\rsid5970405\rsid5976526\rsid5993216\rsid6237367\rsid6372407\rsid6582849
+\rsid6835967\rsid6846693\rsid6896303\rsid6896353\rsid6908592\rsid6955816\rsid7026139\rsid7079009\rsid7091952\rsid7094116\rsid7144335\rsid7166615\rsid7228024\rsid7278929\rsid7289550\rsid7297581\rsid7360374\rsid7368059\rsid7415094\rsid7626178\rsid7688309
+\rsid7739190\rsid7800710\rsid7824237\rsid7881758\rsid7943956\rsid7962397\rsid8078179\rsid8131799\rsid8131959\rsid8137006\rsid8221636\rsid8418358\rsid8466804\rsid8528475\rsid8528520\rsid8615007\rsid8730679\rsid8736968\rsid8787630\rsid8812254\rsid8927944
+\rsid8996402\rsid9060209\rsid9115393\rsid9269311\rsid9328408\rsid9404409\rsid9595748\rsid9642879\rsid9720628\rsid9726938\rsid9845811\rsid9846059\rsid9900021\rsid9911407\rsid9926135\rsid9986921\rsid10100284\rsid10110727\rsid10252101\rsid10302014
+\rsid10320523\rsid10381045\rsid10487574\rsid10618030\rsid10628932\rsid10636185\rsid10646760\rsid10684532\rsid10714186\rsid10774087\rsid10881141\rsid10963961\rsid11144764\rsid11173657\rsid11217309\rsid11233499\rsid11352256\rsid11403946\rsid11602223
+\rsid11615846\rsid11622843\rsid11693321\rsid11805620\rsid11954998\rsid12002456\rsid12060681\rsid12128641\rsid12154420\rsid12271798\rsid12278883\rsid12587323\rsid12598709\rsid12720510\rsid12745510\rsid12783350\rsid12848222\rsid12848546\rsid12855136
+\rsid12859000\rsid12868406\rsid12875080\rsid12924041\rsid12927545\rsid12941546\rsid13107840\rsid13123694\rsid13240898\rsid13265096\rsid13529508\rsid13529565\rsid13717252\rsid13768818\rsid14105791\rsid14109807\rsid14235473\rsid14305334\rsid14374862
+\rsid14443080\rsid14629554\rsid14640738\rsid14680116\rsid14759858\rsid14771753\rsid14888945\rsid14962807\rsid14966916\rsid14970086\rsid15034902\rsid15146824\rsid15208723\rsid15337756\rsid15363695\rsid15414329\rsid15735731\rsid15860212\rsid15936227
+\rsid16012193\rsid16064950\rsid16067245\rsid16129270\rsid16138641\rsid16141553\rsid16143494\rsid16152189\rsid16202887\rsid16209309\rsid16259188\rsid16278569\rsid16284661\rsid16404319\rsid16411410\rsid16462031\rsid16533031\rsid16611867\rsid16647552
 \rsid16653326\rsid16743579}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Cullerne, Darren (PI, Black Mountain)}
-{\operator Cullerne, Darren (PI, Black Mountain)}{\creatim\yr2013\mo10\dy28\hr14\min5}{\revtim\yr2014\mo6\dy6\hr15\min30}{\printim\yr2013\mo12\dy4\hr9\min2}{\version79}{\edmins19959}{\nofpages14}{\nofwords9832}{\nofchars56045}{\*\company CSIRO}
-{\nofcharsws65746}{\vern32773}}{\*\userprops {\propname Mendeley Document_1}\proptype30{\staticval True}{\propname Mendeley User Name_1}\proptype30{\staticval quack.sawbones@gmail.com@www.mendeley.com}{\propname Mendeley Citation Style_1}\proptype30
+{\operator Cullerne, Darren (PI, Black Mountain)}{\creatim\yr2013\mo10\dy28\hr14\min5}{\revtim\yr2014\mo6\dy2\hr14\min46}{\printim\yr2013\mo12\dy4\hr9\min2}{\version70}{\edmins14155}{\nofpages14}{\nofwords9564}{\nofchars54517}{\*\company CSIRO}
+{\nofcharsws63954}{\vern32773}}{\*\userprops {\propname Mendeley Document_1}\proptype30{\staticval True}{\propname Mendeley User Name_1}\proptype30{\staticval quack.sawbones@gmail.com@www.mendeley.com}{\propname Mendeley Citation Style_1}\proptype30
 {\staticval http://www.zotero.org/styles/harvard1}{\propname Mendeley Recent Style Id 0_1}\proptype30{\staticval http://www.zotero.org/styles/american-medical-association}{\propname Mendeley Recent Style Name 0_1}\proptype30{\staticval American Medical As
 sociation}{\propname Mendeley Recent Style Id 1_1}\proptype30{\staticval http://www.zotero.org/styles/american-political-science-association}{\propname Mendeley Recent Style Name 1_1}\proptype30{\staticval American Political Science Association}
 {\propname Mendeley Recent Style Id 2_1}\proptype30{\staticval http://www.zotero.org/styles/apa}{\propname Mendeley Recent Style Name 2_1}\proptype30{\staticval American Psychological Association 6th edition}{\propname Mendeley Recent Style Id 3_1}
@@ -146,18 +145,18 @@ wordml}}\paperw11906\paperh16838\margl1440\margr1440\margt1440\margb1440\gutter0
 \jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
 \asianbrkrule\rsidroot1400821\newtblstyruls\nogrowautofit\usenormstyforlist\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notbrkcnstfrctbl\notvatxbx\krnprsnet\cachedcolbal \nouicompat \fet0
 {\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
-\f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2058643 \chftnsep 
+\f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16462031 \chftnsep 
 \par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2058643 \chftnsepc 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16462031 \chftnsepc 
 \par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2058643 \chftnsep 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16462031 \chftnsep 
 \par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2058643 \chftnsepc 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16462031 \chftnsepc 
 \par }}\ltrpar \sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\footerr \ltrpar \pard\plain \ltrpar\s21\ql \li0\ri0\widctlpar
 \tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
-Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid13850384 4}}}\sectd \ltrsect
+Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid10628932 10}}}\sectd \ltrsect
 \linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\insrsid13850384 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
+\lang1024\langfe1024\noproof\insrsid10628932 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
 \par }\pard \ltrpar\s21\ql \li0\ri0\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 Literature Review
 \par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
 {\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
@@ -365,7 +364,9 @@ opping-particle" : "", "parse-names" : false, "suffix" : "" \}, \{ "dropping-par
 , "uris" : [ "http://www.mendeley.com/documents/?uuid=72d87c9c-84db-4e0d-a809-20767bf48587" ] \} ], "mendeley" : \{ "previouslyFormattedCitation" : "(Lulin et al. 2012)" \}, "properties" : \{ "noteIndex" : 0 \}, "schema" : "https://github.
 com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid6908592\charrsid12924041 (Lulin et al. 2012)}}}\sectd \ltrsect
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592  and publicly available EST resources available (NCBI), there is no publicly available draft genome.}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid12927545  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592  
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid12927545  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592  The presence of }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid6908592 FLC}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 
+ gene homologs has been found in the S317 cultivar, indicating possible similarities to the }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid6908592 A. thaliana}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 
+ vernalisation pathway (Cullerne and Wood, unpublished results). 
 \par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2694775 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 
 \par 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2694775 Vernalisation
@@ -389,15 +390,10 @@ ly" : "Finnegan", "given" : "E Jean", "non-dropping-particle" : "", "parse-names
 , "note" : "10.1073/pnas.97.7.3753 ", "page" : "3753-3758", "title" : "The molecular basis of vernalization: The central role of FLOWERING LOCUS C (FLC)", "type" : "article-journal", "volume" : "97" \}, "uris" : [ "h
 ttp://www.mendeley.com/documents/?uuid=716be896-5c38-42e3-84c4-52008e97fbfc" ] \} ], "mendeley" : \{ "previouslyFormattedCitation" : "(Sheldon et al. 2000)" \}, "properties" : \{ "noteIndex" : 0 \}
 , "schema" : "https://github.com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid5993216\charrsid3490637 (Sheldon et al. 2000)}}}\sectd \ltrsect
-\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 . }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 ). }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid14046705 The effect of vernalisation can be seen in many plant species. For example, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8523513 it is known that if some }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3163978 gard}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid8523513 en vegetables}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3163978 , such as lettuce and }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8523513 carrot, are planted at the wrong time, they \'93go to seed\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14046705 
-.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13057277  While this is often attributed to increasing day length (which is a factor), exposure to cold while the seedling is young decreases the time it takes for this effect to be observed}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \insrsid1386043 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14046705  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 Vernalisation is an important trai
-t for the determination of flowering time and flowering time is an important component of the overall yield for a plant. It has also been shown that vernalisation is epigenetic, as the requirement for vern}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8523513 
-alisation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592  is }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8523513 \'93}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 reset}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8523513 \'94}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592  with every generation. Therefore the effect of vernalisation is not transferable between generations }{\rtlch\fcs1 \af0 \ltrch\fcs0 \highlight7\insrsid6908592\charrsid6908592 
-(reference?)(here the epigenetics is word to use and refine throughout)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 
+\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 . }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 ). Vernalisation is an important trai
+t for the determination of flowering time and flowering time is an important component of the overall yield for a plant. It has also been shown that vernalisation is epigenetic, as the requirement for vern is reset with every generation }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \highlight7\insrsid6908592\charrsid6908592 [this is important]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 . Therefore the effect of vernalisation is not transferable between generations }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\highlight7\insrsid6908592\charrsid6908592 (reference?)(here the epigenetics is word to use and refine throughout)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592\charrsid6908592 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6908592 
 \par 
 \par History of Vernalisation
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10636185 Klippart showed }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5993216 as early as}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4986634  1857 the necessity of }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13717252 vernalisa}{
@@ -413,14 +409,9 @@ spring}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4666015 ), who conducted a signific
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5704312 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4666015 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12924041  }{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5327852 L}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14970086 ysenko }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5993216 postulated the}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15936227  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \insrsid5993216 progeny}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15936227  of vernalised }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5993216 cereals}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5327852  will maintain the}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840 
- attributes of vernalised}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5327852  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840 parents}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12192247 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14680116 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12192247 \tab How much history should I have in here? Anything I can add about FLC in AraTha but not in TriAes? Should this be here or somewhere else?
-\par \tab What about something relating to other crops and vernalisation? Folk Lore about when to plant crops?
-\par \tab How about Australian planting history? Winter Wheats and Farrer? Planting crops \'93at the appropriate time\'94 in colonial Australia and having them fail?
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14680116 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6706505 
+ attributes of vernalised}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5327852  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840 parents}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14680116 
 \par 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14680116 Biology of Vernalisation
+\par Biology of Vernalisation
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16064950 Tissues susceptible to vernalisation are located in the shoot apical meristem }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10628932 ADDIN CSL_CITATION \{ "citationItems" : [ \{
  "id" : "ITEM-1", "itemData" : \{ "author" : [ \{ "dropping-particle" : "", "family" : "Wellensiek", "given" : "S J", "non-dropping-particle" : "", "parse-names" : false, "suffix" : "" \}
  ], "container-title" : "Nature", "id" : "ITEM-1", "issue" : "4838", "issued" : \{ "date-parts" : [ [ "1962", "7" ] ] \}, "page" : "307-308", "title" : "Dividing Cells as the Locus for Vernalization", "type" : "article-journal", "volume" : "195" \}
@@ -437,7 +428,6 @@ dropping-particle" : "", "parse-names" : false, "suffix" : "" \} ], "container-t
 d onto vernalised root stock, the opposite is observed, consistent in both }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid16064950\charrsid14443080 facultative}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16064950 
  (i.e. vernalisation decreases time to flowering, but is not essential for flowering) and }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid16064950\charrsid14443080 absolute}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16064950 
  vernalisation (i.e. vernalisation is required to progress from vegetative development to flowering) responses.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15208723 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6706505 \tab Should I be going into details about 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14680116 
 \par 
 \par 
@@ -468,21 +458,17 @@ ven" : "Ove", "non-dropping-particle" : "", "parse-names" : false, "suffix" : ""
 , "note" : "10.1126/science.1197004 ", "page" : "1397-1400", "title" : "An Antagonistic Pair of FT Homologs Mediates the Control of Flowering Time in Sugar Beet", "type" : "article-journal", "volume" : "330" \}
 , "uris" : [ "http://www.mendeley.com/documents/?uuid=b98a295f-e6c4-4037-9d08-5b36e48fa550" ] \} ], "mendeley" : \{ "previouslyFormattedCitation" : "(Pin et al. 2010)" \}, "properties" : \{ "noteIndex" : 0 \}
 , "schema" : "https://github.com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid9642879\charrsid9642879 (Pin et al. 2010)}}}\sectd \ltrsect
-\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14970086 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6706505  
-\par }\pard \ltrpar\ql \fi720\li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6706505 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6706505 Start talking about how epigenetic changes happen}{\rtlch\fcs1 
-\af0 \ltrch\fcs0 \insrsid15208723 
-\par }\pard \ltrpar\ql \fi720\li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15420354 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6706505 Is this where something outlining }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid15420354 the PHD-PRC}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7932833 2}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15420354  complex? Or should this be done later? Is}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7932833  PHD-PRC2 }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid15420354 specific to a single system or across multiple ones?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15420354\charrsid14970086 
-\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13107840 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid806891 
-\par }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid806891\charrsid355865  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid2058643 
+\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14970086 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15208723\charrsid14970086 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid806891 
+\par 
+\par }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid806891\charrsid355865  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid16462031 
 {\shp{\*\shpinst\shpleft0\shptop0\shpright10050\shpbottom4778\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz2\shplockanchor\shplid1026{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
 {\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn hspNext}{\sv 1026}}{\sp{\sn fFitShapeToText}{\sv 1}}{\sp{\sn fRecolorFillAsPicture}{\sv 0}}
 {\sp{\sn fUseShapeAnchor}{\sv 0}}{\sp{\sn lineColor}{\sv 16777215}{\*\hsv \cbackgroundone\ctint255\cshade255}}{\sp{\sn fLine}{\sv 1}}{\sp{\sn posrelh}{\sv 3}}{\sp{\sn posrelv}{\sv 3}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn pctVert}{\sv 200}}{\sp{\sn sizerelh}{\sv 0}}
 {\sp{\sn sizerelv}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\langfenp3081\insrsid2058643\charrsid14052081 {\*\shppict{\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fRotateText}{\sv 1}}{\sp{\sn pictureGray}{\sv 0}}
+\lang1024\langfe1024\noproof\langfenp3081\insrsid16462031\charrsid14052081 {\*\shppict{\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fRotateText}{\sv 1}}{\sp{\sn pictureGray}{\sv 0}}
 {\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 8}}{\sp{\sn wzDescription}{\sv Description: Description: Description: Fig. 3}}{\sp{\sn fHidden}{\sv 0}}
 {\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex138\picscaley146\piccropl51\piccropr51\piccropt51\piccropb62\picw11642\pich4868\picwgoal6600\pichgoal2760\pngblip\bliptag152487172{\*\blipuid 0916c50477722495163b764c6162740d}
 89504e470d0a1a0a0000000d49484452000001b8000000b80803000000a663093500000300504c5445000000acb452839441626a319cac4a2973a4acb44affff
@@ -847,8 +833,9 @@ lowering. In contrast, BvFT1 represses flowering and its down-regulation is cruc
 schema" : "https://github.com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid355865\charrsid355865 (Pin et al. 2010)}}}\sectd \ltrsect
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid355865 
 \par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8194\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
-\f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid2058643\charrsid14052081 {\nonshppict{\pict\picscalex139\picscaley146\piccropl51\piccropr51\piccropt51\piccropb62
-\picw11642\pich4868\picwgoal6600\pichgoal2760\wmetafile8\bliptag152487172{\*\blipuid 0916c50477722495163b764c6162740d}010009000003e46d010000003da0000000001610000026060f002220574d46430100000000000100d75e000000000d00000000200000a8780100a89801000100
+\f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid16462031\charrsid14052081 {\nonshppict
+{\pict\picscalex139\picscaley146\piccropl51\piccropr51\piccropt51\piccropb62\picw11642\pich4868\picwgoal6600\pichgoal2760\wmetafile8\bliptag152487172{\*\blipuid 0916c50477722495163b764c6162740d}
+010009000003e46d010000003da0000000001610000026060f002220574d46430100000000000100d75e000000000d00000000200000a8780100a89801000100
 00006c0000000000000000000000b7010000b700000000000000000000009a3c00005a19000020454d4600000100a89801000c00000001000000000000000000
 0000000000008007000038040000a50200007d010000000000000000000000000000d5550a0048d00500460000002c00000020000000454d462b014001001c00
 0000100000000210c0db010000006000000060000000460000009456000088560000454d462b224004000c000000000000001e4009000c000000000000002440
@@ -3796,29 +3783,28 @@ schema" : "https://github.com/citation-style-language/schema/raw/master/csl-cita
 \par }}\dpx0\dpy0\dpxsize10050\dpysize4778\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor140\dplinecog12\dplinecob0}}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8078179 
 {\pict{\*\picprop\defshp\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}}\picscalex279\picscaley189\piccropl0\piccropr0\piccropt-2520\piccropb2520
-\picw6338\pich4447\picwgoal3593\pichgoal2521\wmetafile8\bliptag-1291212510\blipupi72{\*\blipuid b309a92224c215a6eb04528210b3b483}
-0100090000032a0200000200a20100000000a201000026060f003a03574d46430100000000000100292900000000010000001803000000000000180300000100
-00006c0000000000000000000000350000006f00000000000000000000003f450000f820000020454d4600000100180300001200000002000000000000000000
+\picw6338\pich4447\picwgoal3593\pichgoal2521\wmetafile8\bliptag-1886264587\blipupi72{\*\blipuid 8f91e2f58ed693734ca3f4390868903c}
+0100090000031602000002009601000000009601000026060f002203574d464301000000000001004b8900000000010000000003000000000000000300000100
+00006c0000000000000000000000350000006f00000000000000000000003f450000f820000020454d4600000100000300001000000002000000000000000000
 000000000000981200009e1a0000c9000000200100000000000000000000000000002811030000650400160000000c000000180000000a000000100000000000
-00000000000009000000100000005c100000c7070000250000000c0000000e000080250000000c0000000e000080120000000c00000001000000520000007001
-000001000000a4ffffff000000000000000000000000900100000000000004400022430061006c00690062007200690000000000000000000000000000000000
-00000000000000000000000000000000000000000000000000000000000000000000000039004c9a390010000000b09d3900309b39009e51575ab09d3900a89a
-390010000000189c3900949d39005451575ab09d3900a89a390020000000e367ae58a89a3900b09d390020000000ffffffffec3424026468ae58ffffffffffff
-0180ffff0180ef020180ffffffff000307000008000000080000bdbaa55801000000000000005802000025000000372e90010000020f0502020204030204ff02
-00e0ffac004001000000000000009f01000000000000430061006c00690062007200000000000020c6046db6575aac44d566cc3424020c466300dc9a39001e32
-a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec3424026476000800000000250000000c00000001000000250000000c0000000100
-0000250000000c00000001000000180000000c0000000000000254000000540000000000000000000000350000006f00000001000000452087403f4087400000
-000057000000010000004c0000000400000000000000000000005c100000ca0700005000000020005a5a3600000046000000280000001c000000474449430200
-0000ffffffffffffffff5c100000c8070000000000004600000014000000080000004744494303000000250000000c0000000e000080250000000c0000000e00
-00800e000000140000000000000010000000140000000400000003010800050000000b0200000000050000000c02ef00f701040000002e0118001c000000fb02
-0200010000000000bc02000000000102022253797374656d00143f3f3f0000003f3f3f3f083f3f3f000000003f3f3f3f3f00040000002d010000040000002d01
-000004000000020101001c000000fb02f5ff0000000000009001000000000440002243616c696272690000000000000000000000000000000000000000000000
-0000040000002d010100040000002d010100040000002d010100050000000902000000020d000000320a0a0000000100040000000000f601ef0020000600040000002d010000040000002d010000030000000000}}}}\sectd \ltrsect
+00000000000009000000100000005c100000c7070000520000007001000001000000a4ffffff0000000000000000000000009001000000000000044000224300
+61006c00690062007200690000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+39004c9a390010000000b09d3900309b39009e51575ab09d3900a89a390010000000189c3900949d39005451575ab09d3900a89a390020000000e367ae58a89a
+3900b09d390020000000ffffffffec0124026468ae58ffffffffffff0180ffff0180efff0180ffffffff000307000008000000080000bdbaa558010000000000
+00005802000025000000372e90010000020f0502020204030204ff0200e0ffac004001000000000000009f01000000000000430061006c006900620072000000
+0000549a3900709b3900631dae58301e9059d09e3900dc9a39001e32a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec0124026476
+000800000000250000000c00000001000000250000000c00000001000000250000000c00000001000000120000000c00000001000000180000000c0000000000
+000254000000540000000000000000000000350000006f00000001000000452087403f4087400000000057000000010000004c00000004000000000000000000
+00005c100000ca07000050000000200001023600000046000000280000001c0000004744494302000000ffffffffffffffff5c100000c8070000000000004600
+000014000000080000004744494303000000250000000c0000000e000080250000000c0000000e0000800e000000140000000000000010000000140000000400
+000003010800050000000b0200000000050000000c02ef00f701040000002e0118001c000000fb02f5ff0000000000009001000000000440002243616c696272
+6900000000000000000000000000000000000000000000000000040000002d010000040000002d010000040000002d0100000400000002010100050000000902
+000000020d000000320a0a0000000100040000000000f601ef00200006001c000000fb020200010000000000bc02000000000102022253797374656d00143f3f3f0000003f3f3f3f083f3f3f000000003f3f3f3f3f00040000002d010100040000002d010100030000000000}}}}\sectd \ltrsect
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj \sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\footerr \ltrpar \pard\plain \ltrpar
 \s21\ql \li0\ri0\widctlpar\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid4326931 Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid13850384 4}}}\sectd \ltrsect
-\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\insrsid13850384 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
+\insrsid4326931 Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid10628932 10}}}
+\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang1024\langfe1024\noproof\insrsid10628932 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
 \par }\pard \ltrpar\s21\ql \li0\ri0\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 Literature Review
 \par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
 {\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
@@ -3892,13 +3878,13 @@ thylation and by vernalization occurs by distinct mechanisms", "type" : "article
 \lang1024\langfe1024\noproof\insrsid2426907\charrsid2426907 (Sung & Amasino 2004)}}}\sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2426907 >. }{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4224612\charrsid2426907 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10320523\charrsid7824237 
-\par }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840\charrsid9845811  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid2058643 
+\par }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840\charrsid9845811  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid16462031 
 {\shp{\*\shpinst\shpleft0\shptop0\shpright8925\shpbottom7905\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplockanchor\shplid1027{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
 {\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn lTxid}{\sv 131072}}{\sp{\sn hspNext}{\sv 1027}}{\sp{\sn fRecolorFillAsPicture}{\sv 0}}{\sp{\sn fUseShapeAnchor}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn posrelh}{\sv 3}}
 {\sp{\sn posrelv}{\sv 3}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn sizerelh}{\sv 0}}
 {\sp{\sn sizerelv}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13107840 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\langfenp3081\insrsid2058643\charrsid14052081 {\*\shppict{\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fRotateText}{\sv 1}}{\sp{\sn pictureGray}{\sv 0}}
+\lang1024\langfe1024\noproof\langfenp3081\insrsid16462031\charrsid14052081 {\*\shppict{\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fRotateText}{\sv 1}}{\sp{\sn pictureGray}{\sv 0}}
 {\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 4}}{\sp{\sn wzDescription}{\sv Description: Description: Description: Description: http://www.nc
 bi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=102366&s=3&r=1&c=1}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex105\picscaley101\piccropl0\piccropr0\piccropt435\piccropb4425
 \picw14314\pich19764\picwgoal8115\pichgoal11205\jpegblip\bliptag-466802551{\*\blipuid e42d2889cdb01d54b5097d306c55a8ea}ffd8ffe000104a46494600010100000100010000ffdb0043000a07070807060a0808080b0a0a0b0e18100e0d0d0e1d15161118231f2524221f2221262b372f26
@@ -4505,9 +4491,9 @@ c.104.161070 ", "page" : "2553-2559", "title" : "Vernalization, Competence, and 
 \lang1024\langfe1024\noproof\insrsid13107840\charrsid12924041 (Amasino 2004)}}}\sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9845811 . }{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \highlight7\insrsid9845811\charrsid9845811 NB: Add FRL2 next to FRL1, referring to either Finnegan 2005 or the paper Finnegan refers to.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840 
 \par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13107840 \rtlch\fcs1 
-\af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid2058643\charrsid14052081 {\nonshppict
+\af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid16462031\charrsid14052081 {\nonshppict
 {\pict\picscalex105\picscaley101\piccropl0\piccropr0\piccropt435\piccropb4425\picw14314\pich19764\picwgoal8115\pichgoal11205\wmetafile8\bliptag-466802551\blipupi-96{\*\blipuid e42d2889cdb01d54b5097d306c55a8ea}
-010009000003068806000000d11b030000001610000026060f002220574d46430100000000000100f7870000000037000000002000008cae06008cce06000100
+010009000003068806000000d11b030000001610000026060f002220574d46430100000000000100597a0000000037000000002000008cae06008cce06000100
 00006c00000000000000000000001c020000ea0200000000000000000000834a0000f066000020454d46000001008cce06000c00000001000000000000000000
 0000000000008007000038040000a50200007d010000000000000000000000000000d5550a0048d00500460000002c00000020000000454d462b014001001c00
 0000100000000210c0db010000006000000060000000460000005095000044950000454d462b224004000c000000000000001e4009000c000000000000002440
@@ -5137,7 +5123,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 0101010101010101010101010101010101010101010101010101010301010b040101050a360901010f0d01010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101ffffff0101010101010101010101010101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010104101301016db6d1d49f34a501010f130101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -5145,7 +5131,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010601011201
 011ec6b65e4edcf6ac01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ffffff010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101000000010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010f010177710095d3ab9600d14f012e010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -5155,7 +5141,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 01010101010101070101070112920000c4d3f80078f7010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-010101dedee601010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+01010100000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101050f04010808010801016f01010701015601010401010901ceb8c1610401
 8e2b004f01090101011008010b010801060101060b050301010f01040e0101060101030a010101010604010803010105010901010a010304010a010101010101
 0101010101010101010b040101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -5163,7 +5149,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 01010d01010f0101130104010f1301010a050137040101080106040109010501100101050601083601010124019c3ab1470104d7008d0501080f010105010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101010101010101010101010101dee6de0101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 080101010101010c93b415010106100101c71c7b94e0ae03014f010129eb1b6f6d0000690101081f81dd571c0b01010d1ef9e8bc24015fd8739001bf15d60b01
 33288c2f406e8fbfda130101016585d6010106080103e259dcea1a13010f0101010101010101010b0f0101050f0f050505050505050505050505050505050505
@@ -5172,7 +5158,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 0f011d8a93010101618f930101360140a73b126c35000a01010b0101050101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-010101d5cdd501010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+01010100000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101080801010101040f9a00359653011301015a705c004c00397b010102527d4c00c1
 6b962b200937734c2d002b00f9050708c13a39006ff33a00952b74000088050bfa000079c6a5758dec0b040121b8fb2c070101370dd400550075007b01010101
 01010101010101060601010108010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -5180,7 +5166,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 42427b0b407c3a4c1e010f0129b000000000aab601014e55ff2e134701e900ab010ab544f8012e2ef0552a011e01c5790039d7b9009611080105010104010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101010101010101010101010101cdcdde0101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010801
 01080501050f03c2000000ec01010403f34400ed98312b003b011b329600b56600003a22038f00009d229b002c14087a000070730df800c990fc71952cdf0a18
 005ce7e70e1f00001701010541000000a0110105ee0032c8eab1004ca60f010101010101010104040b0f06060401040404040404040404040404040404040404
@@ -5189,7 +5175,7 @@ c100dddddd00bbbbbb00cecece00a6a6a60030303000c4c4c400cccccc00d0d0d000bfbfbf007f7f
 0101d739fb010101e500990b01f39600abe42c002b00530b01080108040101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-010101d5d5cd01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+01010100000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010b0101050305010164005c002d7c06130b01c100e5010118ddea1d04700000620d40
 ff4c005f01fb305e011256f7985f01637100ea010100009a11019e4c00a60123425c8510011f80756a01130ad4004478433701013942a2010d09724d3b010101
 010101010101050101010b0101060101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -11541,7 +11527,7 @@ c8003c3c3c004a4a4a0037373700aeaeae00969696009d9d9d003d3d3d0092929200d9d9d9002222
 0101010101010101010101010101010101010101010101010101010101010101010101010101010301010b040101050a360901010f0d01010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101010101010101010101010101ffffff0101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010104101301016db6d1d49f34a501010f130101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -11550,7 +11536,7 @@ c8003c3c3c004a4a4a0037373700aeaeae00969696009d9d9d003d3d3d0092929200d9d9d9002222
 010101010101010601011201011ec6b65e4edcf6ac01010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-010101ffffff01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+01010100000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010f010177710095d3ab
 9600d14f012e01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -11558,7 +11544,7 @@ c8003c3c3c004a4a4a0037373700aeaeae00969696009d9d9d003d3d3d0092929200d9d9d9002222
 010101010101010101010101010101010101010101010101010101010101010101010101010101070101070112920000c4d3f80078f701010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101010101010101010101010101dedee60101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101050f04010808010801016f01010701015601010401010901ceb8c16104018e2b004f01090101011008010b010801060101060b050301010f01040e010106
 0101030a010101010604010803010105010901010a010304010a0101010101010101010101010101010b04010101010101010101010101010101010101010101
@@ -11567,7 +11553,7 @@ c8003c3c3c004a4a4a0037373700aeaeae00969696009d9d9d003d3d3d0092929200d9d9d9002222
 100101050601083601010124019c3ab1470104d7008d0501080f0101050101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-010101dee6de01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+01010100000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101080101010101010c93b415010106100101c71c7b94e0ae03014f010129eb1b6f
 6d0000690101081f81dd571c0b01010d1ef9e8bc24015fd8739001bf15d60b0133288c2f406e8fbfda130101016585d6010106080103e259dcea1a13010f0101
 010101010101010b0f0101050f0f0505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505
@@ -11575,7 +11561,7 @@ c8003c3c3c004a4a4a0037373700aeaeae00969696009d9d9d003d3d3d0092929200d9d9d9002222
 d2983301053bb6ea01030e0101034a34d8456801010e1457db010101011493190f011d8a93010101618f930101360140a73b126c35000a01010b010105010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101010101010101010101010101d5cdd50101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010108
 0801010101040f9a00359653011301015a705c004c00397b010102527d4c00c16b962b200937734c2d002b00f9050708c13a39006ff33a00952b74000088050b
 fa000079c6a5758dec0b040121b8fb2c070101370dd400550075007b010101010101010101010106060101010801010101010101010101010101010101010101
@@ -11584,7 +11570,7 @@ fa000079c6a5758dec0b040121b8fb2c070101370dd400550075007b010101010101010101010106
 010ab544f8012e2ef0552a011e01c5790039d7b90096110801050101040101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-010101cdcdde01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+01010100000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 010101010101010101010101010101010101010101010101010101010101080101080501050f03c2000000ec01010403f34400ed98312b003b011b329600b566
 00003a22038f00009d229b002c14087a000070730df800c990fc71952cdf0a18005ce7e70e1f00001701010541000000a0110105ee0032c8eab1004ca60f0101
 01010101010104040b0f060604010404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404
@@ -11592,7 +11578,7 @@ fa000079c6a5758dec0b040121b8fb2c070101370dd400550075007b010101010101010101010106
 0000a1010e0000004108010b3c002b593fbe42000d07260091010104017c443d0101d739fb010101e500990b01f39600abe42c002b00530b0108010804010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
-0101010101010101010101010101010101010101010101010101010101010101010101d5d5cd0101010101010101010101010101010101010101010101010101
+01010101010101010101010101010101010101010101010101010101010101010101010000000101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010b01
 01050305010164005c002d7c06130b01c100e5010118ddea1d04700000620d40ff4c005f01fb305e011256f7985f01637100ea010100009a11019e4c00a60123
 425c8510011f80756a01130ad4004478433701013942a2010d09724d3b010101010101010101050101010b010106010101010101010101010101010101010101
@@ -17895,17 +17881,16 @@ c.104.161070 ", "page" : "2553-2559", "title" : "Vernalization, Competence, and 
 \par }}\dpx0\dpy0\dpxsize8925\dpysize7905\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8078179 
 {\pict{\*\picprop\defshp\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}}\picscalex248\picscaley313\piccropl0\piccropr0\piccropt-2520\piccropb2520
-\picw6338\pich4447\picwgoal3593\pichgoal2521\wmetafile8\bliptag-1833006941\blipupi71{\*\blipuid 92be88a3c9c882a7b6a8dce918a12eb4}
-0100090000032a0200000200a20100000000a201000026060f003a03574d46430100000000000100396b00000000010000001803000000000000180300000100
+\picw6338\pich4447\picwgoal3593\pichgoal2521\wmetafile8\bliptag920877042\blipupi71{\*\blipuid 36e377f205da8fe60ad113a26335bdb0}0100090000032a0200000200a20100000000a201000026060f003a03574d46430100000000000100936f00000000010000001803000000000000180300000100
 00006c0000000000000000000000350000006f00000000000000000000007f3d00007836000020454d4600000100180300001200000002000000000000000000
 000000000000981200009e1a0000c9000000200100000000000000000000000000002811030000650400160000000c000000180000000a000000100000000000
 0000000000000900000010000000870e0000de0c0000250000000c0000000e000080250000000c0000000e000080120000000c00000001000000520000007001
 000001000000a4ffffff000000000000000000000000900100000000000004400022430061006c00690062007200690000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000039004c9a390010000000b09d3900309b39009e51575ab09d3900a89a
-390010000000189c3900949d39005451575ab09d3900a89a390020000000e367ae58a89a3900b09d390020000000ffffffffec3424026468ae58ffffffffffff
-0180ffff0180ef020180ffffffff000307000008000000080000bdbaa55801000000000000005802000025000000372e90010000020f0502020204030204ff02
-00e0ffac004001000000000000009f01000000000000430061006c00690062007200000000000020c6046db6575aac44d566cc3424020c466300dc9a39001e32
-a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec3424026476000800000000250000000c00000001000000250000000c0000000100
+390010000000189c3900949d39005451575ab09d3900a89a390020000000e367ae58a89a3900b09d390020000000ffffffffec0124026468ae58ffffffffffff
+0180ffff0180efff0180ffffffff000307000008000000080000bdbaa55801000000000000005802000025000000372e90010000020f0502020204030204ff02
+00e0ffac004001000000000000009f01000000000000430061006c0069006200720000000000549a3900709b3900631dae58301e9059d09e3900dc9a39001e32
+a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec0124026476000800000000250000000c00000001000000250000000c0000000100
 0000250000000c00000001000000180000000c0000000000000254000000540000000000000000000000350000006f00000001000000452087403f4087400000
 000057000000010000004c000000040000000000000000000000870e0000de0c000050000000200000003600000046000000280000001c000000474449430200
 0000ffffffffffffffff880e0000df0c0000000000004600000014000000080000004744494303000000250000000c0000000e000080250000000c0000000e00
@@ -17915,9 +17900,9 @@ a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec342402647600080000
 0000040000002d010100040000002d010100040000002d010100050000000902000000020d000000320a0a0000000100040000000000bd018b0120000600040000002d010000040000002d010000030000000000}}}}\sectd \ltrsect
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj \sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\footerr \ltrpar \pard\plain \ltrpar
 \s21\ql \li0\ri0\widctlpar\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid4326931 Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid13850384 4}}}\sectd \ltrsect
-\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\insrsid13850384 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
+\insrsid4326931 Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid10628932 10}}}
+\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang1024\langfe1024\noproof\insrsid10628932 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
 \par }\pard \ltrpar\s21\ql \li0\ri0\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 Literature Review
 \par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
 {\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
@@ -18081,13 +18066,13 @@ in Trevaskis 2006, it talks about zinc finger proteins}{\rtlch\fcs1 \af0 \ltrch\
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12060681 How is it that induction of VRN2 by increasing day length }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12859000 
 causes flowering when FT is INHIBITED by the expression of VRN2? Increase in expression of VRN1 overrules VRN2? VRN1 expression bypasses the FT and VRN2 genes, inducing flowering. Mo}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14109807 
 re reading on this stuff! }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\insrsid12859000 {\field{\*\fldinst SYMBOL 76 \\f "Wingdings" \\s 11}{\fldrslt\f10\fs22}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12060681 
-\par }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16259188\charrsid10628932  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid2058643 
+\par }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16259188\charrsid10628932  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid16462031 
 {\shp{\*\shpinst\shpleft0\shptop0\shpright8752\shpbottom7286\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplockanchor\shplid1028{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
 {\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn lTxid}{\sv 196608}}{\sp{\sn hspNext}{\sv 1028}}{\sp{\sn fRecolorFillAsPicture}{\sv 0}}{\sp{\sn fUseShapeAnchor}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn posrelh}{\sv 3}}
 {\sp{\sn posrelv}{\sv 3}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn sizerelh}{\sv 0}}
 {\sp{\sn sizerelv}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}{\shptxt \ltrpar \pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\langfenp3081\insrsid2058643\charrsid14052081 {\*\shppict{\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fRotateText}{\sv 1}}{\sp{\sn pictureGray}{\sv 0}}
+\lang1024\langfe1024\noproof\langfenp3081\insrsid16462031\charrsid14052081 {\*\shppict{\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fRotateText}{\sv 1}}{\sp{\sn pictureGray}{\sv 0}}
 {\sp{\sn pictureBiLevel}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fNoFillHitTest}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv Picture 9}}{\sp{\sn wzDescription}{\sv Description: Description: Description: http://origin-ars.els-cdn.
 com/content/image/1-s2.0-S1360138507001562-gr4.jpg}}{\sp{\sn fHidden}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex157\picscaley156\piccropl2182\piccropr50\piccropt46\piccropb252
 \picw8721\pich7350\picwgoal4944\pichgoal4167\jpegblip\bliptag-1229698241{\*\blipuid b6b44b3f3dd3980406b2fba83c2d455a}ffd8ffe000104a46494600010101007100710000fffe002e48616e646d61646520536f6674776172652c20496e632e20496d61676520416c6368656d79207631
@@ -18419,7 +18404,7 @@ pping-particle" : "", "family" : "Hemming", "given" : "Megan N", "non-dropping-p
 , "schema" : "https://github.com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid7943956\charrsid7943956 (Trevaskis et al. 2007)}}}\sectd \ltrsect
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid16259188\charrsid7943956 
 \par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8193\dptxbx\dptxlrtb{\dptxbxtext\ltrpar \pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
-\f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid2058643\charrsid14052081 {\nonshppict
+\f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\langfenp3081\insrsid16462031\charrsid14052081 {\nonshppict
 {\pict\picscalex157\picscaley156\piccropl2182\piccropr50\piccropt46\piccropb252\picw8721\pich7350\picwgoal4944\pichgoal4167\wmetafile8\bliptag-1229698241\blipupi112{\*\blipuid b6b44b3f3dd3980406b2fba83c2d455a}
 0100090000034003050000008be7020000001610000026060f002220574d464301000000000001008e0300000000220000000020000028110400283104000100
 00006c000000000000000000000049010000150100000000000000000000732d00004e26000020454d4600000100283104000c00000001000000000000000000
@@ -28701,19 +28686,19 @@ pping-particle" : "", "family" : "Hemming", "given" : "Megan N", "non-dropping-p
 \par }}\dpx0\dpy0\dpxsize8752\dpysize7286\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8078179 
 {\pict{\*\picprop\defshp\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}
 {\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}}\picscalex243\picscaley331\piccropl0\piccropr0\piccropt-2200\piccropb2200
-\picw6338\pich3882\picwgoal3593\pichgoal2201\wmetafile8\bliptag1059533981\blipupi72{\*\blipuid 3f27349da7b6724e6a5d289a08203fce}
-0100090000032a0200000200a20100000000a201000026060f003a03574d46430100000000000100e27400000000010000001803000000000000180300000100
+\picw6338\pich3882\picwgoal3593\pichgoal2201\wmetafile8\bliptag-1537930974\blipupi72{\*\blipuid a45509220f642b6d9ded4980a7b20f4c}
+0100090000032a0200000200a20100000000a201000026060f003a03574d46430100000000000100387700000000010000001803000000000000180300000100
 00006c0000000000000000000000350000006f0000000000000000000000413c00003b32000020454d4600000100180300001200000002000000000000000000
 000000000000981200009e1a0000c9000000200100000000000000000000000000002811030000650400160000000c000000180000000a000000100000000000
 00000000000009000000100000003f0e0000dc0b0000250000000c0000000e000080250000000c0000000e000080120000000c00000001000000520000007001
 000001000000a4ffffff000000000000000000000000900100000000000004400022430061006c00690062007200690000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000039004c9a390010000000b09d3900309b39009e51575ab09d3900a89a
-390010000000189c3900949d39005451575ab09d3900a89a390020000000e367ae58a89a3900b09d390020000000ffffffffec3424026468ae58ffffffffffff
-0180ffff0180ef020180ffffffff000307000008000000080000bdbaa55801000000000000005802000025000000372e90010000020f0502020204030204ff02
-00e0ffac004001000000000000009f01000000000000430061006c00690062007200000000000020c6046db6575aac44d566cc3424020c466300dc9a39001e32
-a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec3424026476000800000000250000000c00000001000000250000000c0000000100
+390010000000189c3900949d39005451575ab09d3900a89a390020000000e367ae58a89a3900b09d390020000000ffffffffec0124026468ae58ffffffffffff
+0180ffff0180efff0180ffffffff000307000008000000080000bdbaa55801000000000000005802000025000000372e90010000020f0502020204030204ff02
+00e0ffac004001000000000000009f01000000000000430061006c0069006200720000000000549a3900709b3900631dae58301e9059d09e3900dc9a39001e32
+a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec0124026476000800000000250000000c00000001000000250000000c0000000100
 0000250000000c00000001000000180000000c0000000000000254000000540000000000000000000000350000006f00000001000000452087403f4087400000
-000057000000010000004c0000000400000000000000000000003c0e0000de0b000050000000200000003600000046000000280000001c000000474449430200
+000057000000010000004c0000000400000000000000000000003c0e0000de0b000050000000200004023600000046000000280000001c000000474449430200
 0000ffffffffffffffff400e0000dd0b0000000000004600000014000000080000004744494303000000250000000c0000000e000080250000000c0000000e00
 00800e000000140000000000000010000000140000000400000003010800050000000b0200000000050000000c026d01b501040000002e0118001c000000fb02
 0200010000000000bc02000000000102022253797374656d00143f3f3f0000003f3f3f3f083f3f3f000000003f3f3f3f3f00040000002d010000040000002d01
@@ -28721,9 +28706,9 @@ a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec342402647600080000
 0000040000002d010100040000002d010100040000002d010100050000000902000000020d000000320a0a0000000100040000000000b4016c0120000600040000002d010000040000002d010000030000000000}}}}\sectd \ltrsect
 \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj \sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\footerr \ltrpar \pard\plain \ltrpar
 \s21\ql \li0\ri0\widctlpar\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4326931 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid4326931 Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid13850384 4}}}\sectd \ltrsect
-\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\lang1024\langfe1024\noproof\insrsid13850384 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
+\insrsid4326931 Darren Cullerne \endash  c3194970\tab Page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid10628932 10}}}
+\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931  of }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7881758  NUMPAGES   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang1024\langfe1024\noproof\insrsid10628932 14}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 
 \par }\pard \ltrpar\s21\ql \li0\ri0\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4326931 Literature Review
 \par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
 {\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
@@ -28739,10 +28724,20 @@ a7582900000001000000189b3900189b3900d07ba55829000000409b3900ec342402647600080000
 \par Papers that represent different phenotypes of Vernalisation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16209309\charrsid2694775 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16209309 Nature Communications \endash  ODDSOC 2, Cereal synteny
 \par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13107840 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16209309 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7932833 Are there details on Sorghum here? Have a look at Hammer and phenotype stuff for day length/vernalisation and whether this can be worked with.
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840 
 \par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2694775 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12278883 
-\par }\pard \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2694775 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2694775 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12278883 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f31571\insrsid12278883 \'c4 to # flowers more than #seeds per se
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f2\fs22\insrsid12278883 \hich\af2\dbch\af0\loch\f2 o\tab}}\pard\plain \ltrpar\s15\ql \fi-360\li3240\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\ilvl1\adjustright\rin0\lin3240\itap0\pararsid12278883\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid12278883 MADS box genes (Tx factors)
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f2\fs22\insrsid12278883 \hich\af2\dbch\af0\loch\f2 o\tab}AraTha
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f10\fs22\insrsid12278883 \loch\af10\dbch\af0\hich\f10 \'a7\tab}}\pard \ltrpar\s15\ql \fi-360\li3960\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\ilvl2\adjustright\rin0\lin3960\itap0\pararsid12278883\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12278883 AP1/FUL/CAL \endash  How do these fit in?
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f2\fs22\insrsid12278883 \hich\af2\dbch\af0\loch\f2 o\tab}}\pard \ltrpar\s15\ql \fi-360\li3240\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\ilvl1\adjustright\rin0\lin3240\itap0\pararsid12278883\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12278883 Epigenetic changes NOT passed on through generations
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f2\fs22\insrsid13107840 \hich\af2\dbch\af0\loch\f2 o\tab}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13107840 Which ones are MADS box genes/transcription factors
+\par }\pard\plain \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2694775 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2694775 
 \par Pulses
 \par 
 \par Other Asteraceae?
@@ -28780,21 +28775,10 @@ summer and winter cereals, such as <x> and <y> barley varieties and <q> and <r> 
 \insrsid6908592 T}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14888945 echniques about genome and transcriptome sequencing (e.g. Sanger, BACs, ESTs, genomic and transcriptomic NGS)? Unsure if it would add value to it or not...
 \par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\insrsid10628932 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10628932 Include in this section a section about assessing the quality of genomes
 , including
-\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9387798 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10628932 
-\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6955816 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9387798 Regardless of whether a }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid9387798 
-de novo }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9387798 assembly is genomic or transcriptomic, because there is no reference of which to }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 make a comparison}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9387798 , 
-assessing the quality of a }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid9387798 de novo}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9387798  assembly is difficult.  A number of techniques have been developed to address this problem, with }{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \insrsid16403283 varying success. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728  Calculating the n50 of an assembly (i.e. the length of the contig containing 50% of the nucleotides of the entire sorted assembly)}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid11870641  gives an initial indication of the quality of an assembly,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728  it does not provide }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11870641 insight on any}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728 
- misassembly or chimeric }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 contigs}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11870641  produced by the algorithm}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16403283 
- The most effective way for assessing transcriptom}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15145326 e is aligning }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12716996 good quality }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid15145326\charrsid12716996 known}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673  sequences}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12716996  (such as}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673  transcripts}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12716996 
- that have been sequenced by Sanger techniques) or E}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 xpressed Sequence Tags (E}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12716996 STs}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 )}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \insrsid12716996  against the }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid12716996 de novo}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12716996  assembly. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728  Where reference}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\insrsid11810673  sequences}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728  do not exist, the Core Eukaryotic Genes Mapping Approach (CEGMA) can be used}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11870641  instead}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728 .
- By aligning the 248 most common eukaryotic transcripts and aligning them against the }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid9901728 de novo}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728  genome, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 t
-he higher the alignment of the conserved genes, the better the quality of the assembly }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 ADDIN CSL_CITATION \{ "citationItems" : [ \{ "id" : "ITEM-1", "itemData" : \{
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f2\fs22\insrsid10628932 \hich\af2\dbch\af0\loch\f2 o\tab}}\pard \ltrpar\s15\ql \fi-360\li1440\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls7\ilvl1\adjustright\rin0\lin1440\itap0\pararsid10628932\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10628932 Alignment of known genes (i.e. sanger\'94
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f2\fs22\insrsid10628932 \hich\af2\dbch\af0\loch\f2 o\tab}CEGMA - }{\field\fldedit\fldlock{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10628932 ADDIN CSL_CITATION \{
+ "citationItems" : [ \{ "id" : "ITEM-1", "itemData" : \{
  "DOI" : "10.1093/bioinformatics/btm071", "abstract" : "Motivation: The numbers of finished and ongoing genome projects are increasing at a rapid rate, and providing the catalog of genes for these new genomes is a key challenge. Obtai
 ning a set of well-characterized genes is a basic requirement in the initial steps of any genome annotation process. An accurate set of genes is needed in order to learn about species-specific properties, to train gene-finding programs, and to validate au
 t
@@ -28808,11 +28792,10 @@ tures in a novel genomic sequence. CEGMA includes the use of profile-hidden Mark
  "dropping-particle" : "", "family" : "Korf", "given" : "Ian", "non-dropping-particle" : "", "parse-names" : false, "suffix" : "" \} ], "container-title" : "Bioinformatics", "id" : "ITEM-1", "issue" : "9", "issued" : \{ "date-parts" : [ [ "2
 007", "5", "1" ] ] \}, "note" : "10.1093/bioinformatics/btm071 ", "page" : "1061-1067", "title" : "CEGMA: a pipeline to accurately annotate core genes in eukaryotic genomes", "type" : "article-journal", "volume" : "23" \}
 , "uris" : [ "http://www.mendeley.com/documents/?uuid=aa4a3c60-e7f8-4d82-91b8-69e089f916a1" ] \} ], "mendeley" : \{ "previouslyFormattedCitation" : "(Parra et al. 2007)" \}, "properties" : \{ "noteIndex" : 0 \}
-, "schema" : "https://github.com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid11810673\charrsid10628932 (Parra et al. 2007)}}}\sectd \ltrsect
-\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11810673 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14888945\charrsid9901728 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9901728\charrsid12716996 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9387798 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9387798\charrsid9387798 
+, "schema" : "https://github.com/citation-style-language/schema/raw/master/csl-citation.json" \}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 (Parra et al. 2007)}}}\sectd \ltrsect
+\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid3670363\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10628932 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6955816 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14888945 
 \par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7079009 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8736968 Aims of this research project:
 \par The primary aim of this re}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10714186 search project is to investigate how}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8736968  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10714186 vernalisation}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \insrsid14771753  results in phenotypic variation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10714186  in }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid10714186 C. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid14771753 T}{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\insrsid10714186 
@@ -28872,7 +28855,7 @@ S31. Available at: http://www.plantcell.org/content/16/suppl_1/S18.short.
 \par \hich\af37\dbch\af31505\loch\f37 Hiraoka, K. et al., 2013. The Florigen Genes FT and TSF Modulate Late\hich\af37\dbch\af31505\loch\f37 ral Shoot Outgrowth in Arabidopsis thaliana. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
 \i\f37\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 \hich\af37\dbch\af31505\loch\f37 Plant and Cell Physiology}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 
 \hich\af37\dbch\af31505\loch\f37 , 54(3), pp.352\hich\f37 \endash \loch\f37 368. Available at: http://pcp.oxfordjournals.org/content/54/3/352.abstract.
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f410\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 \hich\af410\dbch\af31505\loch\f410 \hich\f410 I\'ba\loch\f410 \hich\f410 igig\'fc\loch\f410 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f409\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 \hich\af409\dbch\af31505\loch\f409 \hich\f409 I\'ba\loch\f409 \hich\f409 igig\'fc\loch\f409 
 r, A., Karaosmanoglu, F. & Aksoy, H.A., 1995. Characteristics of safflower seed oils of}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 \hich\af37\dbch\af31505\loch\f37  turkish origin. }{\rtlch\fcs1 
 \ai\af0 \ltrch\fcs0 \i\f37\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 \hich\af37\dbch\af31505\loch\f37 Journal of the American Oil Chemists\hich\f37 \rquote \loch\f37  Society}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f37\fs22\lang1024\langfe1024\noproof\insrsid10628932\charrsid10628932 \hich\af37\dbch\af31505\loch\f37 , 72(10), pp.1223\hich\f37 \endash \loch\f37 1225. Available at: http://dx.doi.org/10.1007/BF02540994.
@@ -29034,18 +29017,18 @@ fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff01000000ec69d9888b8b3d4c859eaf6cd158be0f00000000000000000000000000a1
-677f4881cf010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff02000000000000000000000000000000000000000000000000a1677f4881cf01
-00a1677f4881cf01000000000000000000000000df00d400340044004200ce004b004700dc00c4003400cb00cf00310052004b0044004e00570041004d0051003d003d000000000000000000000000000000000032000101ffffffffffffffff03000000000000000000000000000000000000000000000000a1677f4881
-cf0100a1677f4881cf010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff01000000ec69d9888b8b3d4c859eaf6cd158be0f0000000000000000000000008067
+cd921d7ecf010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff0200000000000000000000000000000000000000000000007040cd921d7ecf01
+8067cd921d7ecf01000000000000000000000000d1005100d500d200300057005700cd005900c4004b00d00034005a00db00d000de004a0035004300310041003d003d000000000000000000000000000000000032000101ffffffffffffffff0300000000000000000000000000000000000000000000007040cd921d7e
+cf018067cd921d7ecf010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
 00000000000000000000000000000000e600000000000000010000000200000003000000feffffff0500000006000000070000000800000009000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f75726365732053656c65637465645374796c653d225c4150412e58534c22205374796c654e616d653d224150412046696674682045646974696f6e2220786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e
 786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879223e3c2f
-623a536f75726365733e00000000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b30363833
-343746462d383645322d343746322d414242442d4234344130434435383033317d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
+623a536f75726365733e00000000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b36393732
+304443352d414436352d343236322d423037392d3945463046383937433236437d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
 64733a736368656d615265662064733a7572693d22687474703a2f2f736368656d61732e6f70656e500072006f007000650072007400690065007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200ffffffffffffffffffffffff000000000000
 0000000000000000000000000000000000000000000000000000000000000400000055010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000
